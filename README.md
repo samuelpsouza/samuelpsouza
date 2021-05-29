@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-83-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14255%20lines%20of%20code-blue)
 
@@ -49,13 +49,19 @@ Sunday       21 commits     ████████░░░░░░░░░�
 ⌚︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     3 hrs 53 mins       ███████████████░░░░░░░░░░   60.81% 
+Scala                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
+YAML                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
+SuperCollider            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.74% 
+Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.55%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Eclipse                  4 hrs 19 mins       █████████████████░░░░░░░░   67.52% 
+IntelliJ                 1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   25.61% 
+VS Code                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    6 hrs 24 mins       █████████████████████████   100.0%
 
 ```
 
