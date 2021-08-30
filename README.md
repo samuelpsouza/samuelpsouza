@@ -61,7 +61,8 @@ VS Code                  21 mins             ██░░░░░░░░░�
 IntelliJ                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
 
 💻 Operating System: 
-Linux                    4 hrs 6 mins        █████████████████████████   100.0%
+Linux                    4 hrs 6 mins        █████████████████████████   99.99% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
@@ -82,5 +83,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelpsouza/samuelpsouza/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
