@@ -49,15 +49,13 @@ Sunday       54 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-Kotlin                   1 hr 28 mins        ██████████████████████░░░   89.81% 
-Properties               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65%
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,5 +76,5 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelpsouza/samuelpsouza/main/charts/bar_graph.png) 
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
