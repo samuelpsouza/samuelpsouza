@@ -81,5 +81,5 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelpsouza/samuelpsouza/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/02/2022 08:16:06 UTC
+ Last Updated on 16/02/2022 08:15:34 UTC
 <!--END_SECTION:waka-->
