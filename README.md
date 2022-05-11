@@ -51,13 +51,13 @@ Sunday       56 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Fortaleza
 
 💬 Programming Languages: 
-JSON                     46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    46 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -78,5 +78,5 @@ Jupyter Notebook         2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/samuelpsouza/samuelpsouza/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/05/2022 08:19:18 UTC
+ Last Updated on 11/05/2022 08:20:41 UTC
 <!--END_SECTION:waka-->
